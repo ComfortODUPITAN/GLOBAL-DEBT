@@ -23,13 +23,12 @@ PowerBI was used in visualizing this dashboard.
 -	This trend highlights fiscal challenges faced by governments in managing public finance amidst global uncertainties.
 ### 6.	General Government Debt
 -	The trends from 2018-2022 reveal stability in countries like France and Canada, while nations like Japan and Greece continue to experience higher debt ratios.
+## Conclusion
+---
+The global debt landscape reveals a delicate balance between leveraging debt for growth and mitigating associated risks. Governments, corporations, and households must work collectively to navigate these challenges, ensuring financial stability while fostering sustainable economic progress.
 ## Recommendations
 ---
 -	Strengthen risk assessment frameworks for lending to ensure stability in the financial sector amid rising private and corporate debt.
 -	Offer tailored financial products that cater to both business growth and consumer resilience.
 -	Companies should align borrowing strategies with long-term growth plans, avoiding over-leverage during periods of economic uncertainty.
 -	Diversify funding sources to reduce dependency on high-cost debt.
-## Conclusion
----
-The global debt landscape reveals a delicate balance between leveraging debt for growth and mitigating associated risks. Governments, corporations, and households must work collectively to navigate these challenges, ensuring financial stability while fostering sustainable economic progress.
-
