@@ -1,7 +1,11 @@
+![global debt](https://github.com/user-attachments/assets/f27959e5-edb3-4b5f-a3e1-2d4818984fa7)
+
 # Global Debt Analysis
+---
 In today's fast-paced global economy, understanding debt trends across sectors and regions is more crucial than ever. This dashboard offers a comprehensive breakdown of debt metrics, providing insights into private, household, corporate, and government debt levels.
 PowerBI was used in visualizing this dashboard.
-## Key insights:
+## Key insights
+---
 ### 1.	Private Debt Analysis
 -	Countries like Luxembourg, Hong Kong SAR, and the Bahamas top the list in private debt levels, with noticeable year-over-year increases from 2018 to 2022.
 -	The gradation of purple bars highlights the continuous growth trajectory in these regions, underscoring the significance of financial leverage.
@@ -20,10 +24,12 @@ PowerBI was used in visualizing this dashboard.
 ### 6.	General Government Debt
 -	The trends from 2018-2022 reveal stability in countries like France and Canada, while nations like Japan and Greece continue to experience higher debt ratios.
 ## Recommendations
+---
 -	Strengthen risk assessment frameworks for lending to ensure stability in the financial sector amid rising private and corporate debt.
 -	Offer tailored financial products that cater to both business growth and consumer resilience.
 -	Companies should align borrowing strategies with long-term growth plans, avoiding over-leverage during periods of economic uncertainty.
 -	Diversify funding sources to reduce dependency on high-cost debt.
 ## Conclusion
+---
 The global debt landscape reveals a delicate balance between leveraging debt for growth and mitigating associated risks. Governments, corporations, and households must work collectively to navigate these challenges, ensuring financial stability while fostering sustainable economic progress.
 
