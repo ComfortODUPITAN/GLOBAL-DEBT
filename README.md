@@ -3,7 +3,8 @@
 # Global Debt Analysis
 ---
 In today's fast-paced global economy, understanding debt trends across sectors and regions is more crucial than ever. This dashboard offers a comprehensive breakdown of debt metrics, providing insights into private, household, corporate, and government debt levels.
-PowerBI was used in visualizing this dashboard.
+## Tool
+- PowerBI was used in visualizing this dashboard.
 ## Key insights
 ---
 ### 1.	Private Debt Analysis
